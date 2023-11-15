@@ -10,9 +10,7 @@
 // @run-at document-end
 // ==/UserScript==
 
-
 $(document).ready(function () {
-
 	
 	$(".questlog").prepend(`<div class="quest" ><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"></div>`);
 	$(".maincell").prepend(`
