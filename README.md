@@ -2,14 +2,6 @@
 
  Scripts para TribalWars
 
-## Contributors
-
-[@albertonecosta](https://github.com/albertonecosta)
-
-## Sumario
-
-- [Barra Premium Free](https://github.com/albertonecosta/TribalWarsStrips)
-
 ### Pre-requisitos
 
 Instale a extensão Tampermonkey
@@ -31,6 +23,6 @@ Para instalar os scripts no Tampermonkey, clique nos links que estarão disponiv
 
 - Deve ser executado em qualquer lugar!
   
-- [Barra Premium Free](https://raw.githubusercontent.com/albertonecosta/TribalWrasStrips/main/PremiumBarFree.js)
+- [Barra Premium Free](https://raw.githubusercontent.com/albertonecosta/TribalWarsStrips/main/UserScript/PremiumBarFree.js)
 
 Este script cria uma barra de menu com funções Premium;

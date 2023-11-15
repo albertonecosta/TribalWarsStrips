@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name          Premium Bar Free
+// @name         Premium Bar Free
 // @version      1.5
 // @description  Premium nav Bar Free !
-// @author        MaxximosDcost && TyrannusRex
-// @include     http*://*.*game.php?*
-// @require     https://code.jquery.com/jquery-2.2.4.min.js
-// @downloadURL https://raw.githubusercontent.com/albertonecosta/TribalWrasStrips/main/PremiumBarFree.js
-// @updateURL   https://github.com/albertonecosta/TribalWarsStrips/raw/main/PremiumBarFree.js
+// @author       MaxximosDcost && TyrannusRex
+// @include      http*://*.*game.php?*
+// @require      https://code.jquery.com/jquery-2.2.4.min.js
+// @downloadURL  https://raw.githubusercontent.com/albertonecosta/TribalWarsStrips/main/UserScript/PremiumBarFree.js
+// @updateURL    https://github.com/albertonecosta/TribalWarsStrips/raw/main/UserScript/PremiumBarFree.js
 // @run-at document-end
 // ==/UserScript==
 
