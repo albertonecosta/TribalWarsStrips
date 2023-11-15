@@ -1,15 +1,15 @@
-// ==UserScript==
-// @name         Premium Bar Free
-// @version      1.5
-// @description  Premium nav Bar Free !
-// @author       MaxximosDcost && TyrannusRex
-// @include      http*://*.*game.php?*
-// @require      https://code.jquery.com/jquery-2.2.4.min.js
-// @downloadURL  https://raw.githubusercontent.com/albertonecosta/TribalWarsStrips/master/UserScript/PremiumBarFree.js
-// @updateURL    https://github.com/albertonecosta/TribalWarsStrips/raw/master/UserScript/PremiumBarFree.js
-// @run-at document-end
-// ==/UserScript==
 
+// ==UserScript==
+// @name         Coletar Coordenadas Mapa
+// @version      3.0
+// @description  Coleta as coordenadas ao redor do mapa
+// @author       Victor Garé
+// @include      https://*&screen=map*
+// @require https://code.jquery.com/jquery-2.2.4.min.js
+// @downloadURL https://raw.githubusercontent.com/victorgare/tribalwars/master/UserScript/ColetarCoordenadas.user.js
+// @updateURL   https://github.com/victorgare/tribalwars/raw/master/UserScript/ColetarCoordenadas.user.js
+
+// ==/UserScript==
 
 
 
