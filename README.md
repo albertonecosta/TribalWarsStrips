@@ -24,7 +24,8 @@ Para instalar os scripts no Tampermonkey, clique nos links que estarão disponiv
 
 ## Authors
 
-- Albertone Costa - _Initial work_ - [GitHub](https://github.com/albertonecosta)
+- Albertone Costa - MaxximosDcost - [GitHub](https://github.com/albertonecosta)
+- TyrannusRex - [YouTube](https://www.youtube.com/@ocriadordetrols5877/playlists)
 
 ## Coletar Coordenadas - Barbaras
 
