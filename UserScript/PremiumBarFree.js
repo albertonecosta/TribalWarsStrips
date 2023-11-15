@@ -5,8 +5,8 @@
 // @author       MaxximosDcost && TyrannusRex
 // @include      http*://*.*game.php?*
 // @require      https://code.jquery.com/jquery-2.2.4.min.js
-// @downloadURL  https://raw.githubusercontent.com/albertonecosta/TribalWarsStrips/main/UserScript/PremiumBarFree.js
-// @updateURL    https://github.com/albertonecosta/TribalWarsStrips/raw/main/UserScript/PremiumBarFree.js
+// @downloadURL  https://raw.githubusercontent.com/albertonecosta/TribalWarsStrips/master/UserScript/PremiumBarFree.js
+// @updateURL    https://github.com/albertonecosta/TribalWarsStrips/raw/master/UserScript/PremiumBarFree.js
 // @run-at document-end
 // ==/UserScript==
 
