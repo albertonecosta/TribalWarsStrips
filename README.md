@@ -23,6 +23,6 @@ Para instalar os scripts no Tampermonkey, clique nos links que estarão disponiv
 
 - Deve ser executado em qualquer lugar!
   
-- [Barra Premium Free](https://raw.githubusercontent.com/albertonecosta/TribalWarsStrips/main/UserScript/PremiumBarFree.js)
+- [Barra Premium Free](https://raw.githubusercontent.com/albertonecosta/tribalscripts/master/UserScript/PremiumBarFree.js)
 
 Este script cria uma barra de menu com funções Premium;
