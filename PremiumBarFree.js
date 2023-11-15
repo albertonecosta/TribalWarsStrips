@@ -1,11 +1,17 @@
 // ==UserScript==
-// @name        Premium Bar Free
-// @version     1.1
-// @description  Premium nav Bar Free 
-// @author      MaxximosDcost && TyrannusRex
+// @name          Premium Bar Free
+// @version      1.5
+// @description  Premium nav Bar Free !
+// @author        MaxximosDcost && TyrannusRex
 // @include     http*://*.*game.php?*
 // @require     https://code.jquery.com/jquery-2.2.4.min.js
+// @downloadURL https://raw.githubusercontent.com/albertonecosta/TribalWrasStrips/main/PremiumBarFree.js
+// @updateURL   https://github.com/albertonecosta/TribalWarsStrips/raw/main/PremiumBarFree.js
+// @run-at document-end
 // ==/UserScript==
+
+
+
 
 
 $(".questlog").prepend(`<div class="quest" ><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"></div>`);
