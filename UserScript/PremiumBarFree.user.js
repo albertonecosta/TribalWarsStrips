@@ -1,21 +1,23 @@
 // ==UserScript==
 // @name          Premium Bar Free
-// @version      1.6
+// @version      1.6.1
 // @description  Premium nav Bar Free !
 // @author       MaxximosDcost && TyrannusRex
 // @include      http*://*.*game.php?*
 // @require   https://code.jquery.com/jquery-2.2.4.min.js
-// @downloadURL https://raw.githubusercontent.com/albertonecosta/tribalscripts/master/UserScript/PremiumBarFree.js
-// @updateURL https://github.com/albertonecosta/tribalscripts/raw/master/UserScript/PremiumBarFree.js
+// @downloadURL https://raw.githubusercontent.com/albertonecosta/tribalscripts/master/UserScript/PremiumBarFree.user.js
+// @updateURL https://github.com/albertonecosta/tribalscripts/raw/master/UserScript/PremiumBarFree.user.js
 
 // ==/UserScript==
 
-
-    $(".questlog").prepend(`<div class="quest"><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"></div>`);
-    $(".maincell").prepend(`
+$("#quickbar_outer").css('display', 'none');
+$(".questlog").prepend(`<div class="quest"><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"><div class="quest_new br">Bar-MX</div></div>`);
+$(".maincell").prepend(`
   <br class="newStyleOnly">
- <table id="quickbar_outer_maxximosdcost" style="display:none;" align="center" width="100%" cellspacing="0">
-			
+  <table id="quickbar_outer_maxximosdcost" align="center" width="100%" cellspacing="0">
+					<tbody><tr>
+						<td>
+							<table id="quickbar_inner" style="border-collapse: collapse;" width="100%">
 								<tbody><tr class="topborder">
 									<td class="left"> </td>
 									<td class="main"> </td>
@@ -25,8 +27,9 @@
 									<td class="left"> </td>
 									<td id="quickbar_contents" class="main">
 										<ul class="menu quickbar">
-																						
-																																				 													<li class="quickbar_item">
+
+
+											<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="c4ca4238a0b923820dcc509a6f75849b" href="1" data-title="Tribo: O Reino de Atlântida">
 																		<img class="quickbar_image" data-src="https://snipboard.io/p3w4g6.jpg" alt="" src="https://snipboard.io/p3w4g6.jpg">
@@ -217,7 +220,7 @@
 																	</a>
 																</span>
 													</li>
-																											</ul>
+																																														</ul>
 									</td>
 									<td class="right"> </td>
 								</tr>
@@ -233,9 +236,13 @@
 									</td>
 								</tr>
 							</tbody></table>
+						</td>
+					</tr>
+				</tbody></table>
+
 
                 `);
 
-   $("#opem_bar_maxximos").click(function(){
-  $("#quickbar_outer_maxximosdcost").toggle(500);
+$("#opem_bar_maxximos").click(function () {
+	$("#quickbar_outer_maxximosdcost").toggle(500);
 });
