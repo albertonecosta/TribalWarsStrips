@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name          Premium Bar Free
-// @version      1.6.3
+// @name          Premium Bar Free 1.6.4
+// @version      1.6.4
 // @description  Premium nav Bar Free !
 // @author       MaxximosDcost && TyrannusRex
 // @include      http*://*.*game.php?*
@@ -30,64 +30,64 @@ $(".maincell").prepend(`
 
 											<li class="quickbar_item">
 																<span>
-																	<a class="quickbar_link" data-hash="c4ca4238a0b923820dcc509a6f75849b" href="1" data-title="Tribo: O Reino de Atlântida">
-																		<img class="quickbar_image" data-src="https://snipboard.io/p3w4g6.jpg" alt="" src="https://snipboard.io/p3w4g6.jpg">
+																	<a class="quickbar_link" data-hash="c4ca4238a0b923820dcc509a6f75849b" href="#" data-title="Tribo: O Reino de Atlântida">
+																		<img width="60" class="quickbar_image" data-src="https://snipboard.io/p3w4g6.jpg" alt="" src="https://snipboard.io/p3w4g6.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="7843128499689e43baba42bab06dc4fa" href="/game.php?village=23015&amp;screen=main" data-title="Edifício Principal">
-																		<img class="quickbar_image" data-src="https://snipboard.io/4RtSKY.jpg" alt="" src="https://snipboard.io/4RtSKY.jpg">
+																		<img  width="60" class="quickbar_image" data-src="https://snipboard.io/4RtSKY.jpg" alt="" src="https://snipboard.io/4RtSKY.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="d19a9592b32578e63c1cb2dffa78cbe2" href="/game.php?village=23015&amp;screen=train" data-title="Recrutar Tropas">
-																		<img class="quickbar_image" data-src="https://snipboard.io/oUqVs6.jpg" alt="" src="https://snipboard.io/oUqVs6.jpg">
+																		<img width="60" class="quickbar_image" data-src="https://snipboard.io/oUqVs6.jpg" alt="" src="https://snipboard.io/oUqVs6.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="cc5ffd9297792b3360ffc14dba7edf5f" href="/game.php?village=23015&amp;screen=place" data-title="Praça de Reunião">
-																		<img class="quickbar_image" data-src="https://snipboard.io/GHpEjW.jpg" alt="" src="https://snipboard.io/GHpEjW.jpg">
+																		<img  width="60" class="quickbar_image" data-src="https://snipboard.io/GHpEjW.jpg" alt="" src="https://snipboard.io/GHpEjW.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="7d6f4d2c6f77d1637b4c3578dffa4b47" href="/game.php?village=23015&amp;screen=market" data-title="Mercado">
-																		<img class="quickbar_image" data-src="https://snipboard.io/2f70rF.jpg" alt="" src="https://snipboard.io/2f70rF.jpg">
+																		<img  width="60" class="quickbar_image" data-src="https://snipboard.io/2f70rF.jpg" alt="" src="https://snipboard.io/2f70rF.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="3f69e37073fa8329448b02773dadd5ef" href="/game.php?village=23015&amp;screen=smith" data-title="Ferreiro">
-																		<img class="quickbar_image" data-src="https://snipboard.io/3PZtYU.jpg" alt="" src="https://snipboard.io/3PZtYU.jpg">
+																		<img width="60" class="quickbar_image" data-src="https://snipboard.io/3PZtYU.jpg" alt="" src="https://snipboard.io/3PZtYU.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="8708802b51699a4f36571e77aedce6e2" href="/game.php?village=23015&amp;screen=snob" data-title="Academia">
-																		<img class="quickbar_image" data-src="https://snipboard.io/qYBDNg.jpg" alt="" src="https://snipboard.io/qYBDNg.jpg">
+																		<img width="60" class="quickbar_image" data-src="https://snipboard.io/qYBDNg.jpg" alt="" src="https://snipboard.io/qYBDNg.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="673aa1b65e4e1ec29c20c19f0c1ee898" href="#" data-title="Torre Simulator">
-																		<img class="quickbar_image" data-src="https://snipboard.io/rtDYbi.jpg" alt="" src="https://snipboard.io/rtDYbi.jpg">
+																		<img  width="60" class="quickbar_image" data-src="https://snipboard.io/rtDYbi.jpg" alt="" src="https://snipboard.io/rtDYbi.jpg">
 																	</a>
 																</span>
 													</li>
 																																																													 													<li class="quickbar_item">
 																<span>
-																	<a class="quickbar_link" data-hash="c6bdf6f65f3845da9085e9ae5790b494" href="A2" data-title="Tribus: Regnum Atlantis">
-																		<img class="quickbar_image" data-src="https://snipboard.io/9FqVeW.jpg" alt="" src="https://snipboard.io/9FqVeW.jpg">
+																	<a class="quickbar_link" data-hash="c6bdf6f65f3845da9085e9ae5790b494" href="#" data-title="Tribus: Regnum Atlantis">
+																		<img width="60" ="quickbar_image" data-src="https://snipboard.io/9FqVeW.jpg" alt="" src="https://snipboard.io/9FqVeW.jpg">
 																	</a>
 																</span>
 													</li>
