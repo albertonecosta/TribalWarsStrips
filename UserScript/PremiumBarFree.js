@@ -2,24 +2,20 @@
 // @name          Premium Bar Free
 // @version      1.5
 // @description  Premium nav Bar Free !
-// @author        MaxximosDcost && TyrannusRex
-// @include     http*://*.*game.php?*
-// @require     https://code.jquery.com/jquery-2.2.4.min.js
-// @downloadURL https://raw.githubusercontent.com/albertonecosta/TribalWrasStrips/main/PremiumBarFree.js
-// @updateURL   https://github.com/albertonecosta/TribalWarsStrips/raw/main/PremiumBarFree.js
-// @run-at document-end
+// @author       MaxximosDcost && TyrannusRex
+// @include      http*://*.*game.php?*
+// @require   https://code.jquery.com/jquery-2.2.4.min.js
+// @downloadURL https://raw.githubusercontent.com/albertonecosta/tribalscripts/master/UserScript/PremiumBarFree.js
+// @updateURL https://github.com/albertonecosta/tribalscripts/raw/master/UserScript/PremiumBarFree.js
+
 // ==/UserScript==
 
 
-$(".questlog").prepend(`<div class="quest" ><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"></div>`);
-$(".maincell").prepend(`
+    $(".questlog").prepend(`<div class="quest"><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"></div>`);
+    $(".maincell").prepend(`
   <br class="newStyleOnly">
-
  <table id="quickbar_outer_maxximosdcost" style="display:none;" align="center" width="100%" cellspacing="0">
-					<tbody><tr>
-						<td>
-
-                        <table id="quickbar_inner" style="border-collapse: collapse;" width="100%">
+			
 								<tbody><tr class="topborder">
 									<td class="left"> </td>
 									<td class="main"> </td>
@@ -29,7 +25,7 @@ $(".maincell").prepend(`
 									<td class="left"> </td>
 									<td id="quickbar_contents" class="main">
 										<ul class="menu quickbar">
-
+																						
 																																				 													<li class="quickbar_item">
 																<span>
 																	<a class="quickbar_link" data-hash="c4ca4238a0b923820dcc509a6f75849b" href="1" data-title="Tribo: O Reino de Atlântida">
@@ -238,10 +234,8 @@ $(".maincell").prepend(`
 								</tr>
 							</tbody></table>
 
-
-
                 `);
 
-$("#opem_bar_maxximos").click(function () {
-    $("#quickbar_outer_maxximosdcost").toggle(500);
+   $("#opem_bar_maxximos").click(function(){
+  $("#quickbar_outer_maxximosdcost").toggle(500);
 });
