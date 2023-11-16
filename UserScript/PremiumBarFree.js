@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Premium Bar Free
-// @version      1.5
+// @version      1.6
 // @description  Premium nav Bar Free !
 // @author       MaxximosDcost && TyrannusRex
 // @include      http*://*.*game.php?*
