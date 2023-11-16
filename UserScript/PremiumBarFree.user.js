@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Premium Bar Free
-// @version      1.6.2
+// @version      1.6.3
 // @description  Premium nav Bar Free !
 // @author       MaxximosDcost && TyrannusRex
 // @include      http*://*.*game.php?*
@@ -10,7 +10,7 @@
 
 // ==/UserScript==
 
-$(".questlog").prepend(`<div class="quest"><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"><div class="quest_new br">Bar-MxTy</div></div>`);
+$(".questlog").prepend(`<div class="quest"><img src="https://callymos.com/public/img/favicon.png" width="25" id="opem_bar_maxximos"><div class="quest_new br" style="width: 50px !important;">Bar-MxTy</div></div>`);
 $(".maincell").prepend(`
   <br class="newStyleOnly">
   <table id="quickbar_outer_maxximosdcost" align="center" width="100%" cellspacing="0">
