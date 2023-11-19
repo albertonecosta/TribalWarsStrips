@@ -304,8 +304,6 @@ $('#MaxTy li').hover(function () {
         $('>div', this).css('color', '#962911');
     });
 
-
-
 $("#opem_bar_maxximos").click(function () {
     $("#quickbar_outer_maxximosdcost").toggle(500);
 });
